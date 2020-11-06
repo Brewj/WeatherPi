@@ -11,7 +11,7 @@ Raspberry Pi based wether station
 - pip
 - VEML6075 library https://github.com/pimoroni/veml6075-python
 - I2S mic https://learn.adafruit.com/adafruit-i2s-mems-microphone-breakout/raspberry-pi-wiring-test
-- 'pip install sounddevice==0.3.15'
+- `pip install sounddevice==0.3.15`
 - Pimoroni Enviro Libraries https://github.com/pimoroni/enviroplus-python
 - Node-Red https://nodered.org/docs/getting-started/local
 
