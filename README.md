@@ -17,10 +17,9 @@ Raspberry Pi based wether station
  <li>Pimoroni Enviro Libraries https://github.com/pimoroni/enviroplus-python</li>
  <li>Node-Red https://nodered.org/docs/getting-started/local </li>
 </ul>
-<h3>Install the following Nodes</h3>
-<ul>
- <li>DHt22</li>
- <li>Node-Red-Dashboard</li>
+### Install the following Nodes
+- DHt22
+- Node-Red-Dashboard</li>
  <li>node-red-node-pi-mcp3008</li>
  <li>node-red-contrib-python-function</li>
  <li>node-red-contrib-counter</li>
@@ -36,10 +35,8 @@ Raspberry Pi based wether station
  <li>Grafana</li>
  </ul>
 
-<h2>Node-Red Flow</h2>
-![alt text](https://github.com/Brewj/WeatherPi/blob/main/WeatherPi_Flow_20201106_2219.png?raw=true)
+## Node-Red Flow
+![WeatherPi_Flow_20201106_2219](https://user-images.githubusercontent.com/5247403/98422214-fdc02f00-2082-11eb-8a97-c4378d4a1931.png)
 
 ## Wiring Diagram
 ![WeatherStation PemaProto Half_bb](https://user-images.githubusercontent.com/5247403/98422125-cd789080-2082-11eb-8f47-790ee3bd5da4.png)
-
-![alt text](https://github.com/Brewj/WeatherPi/blob/main/WeatherStation%20PemaProto%20Half_bb.png?raw=true)
