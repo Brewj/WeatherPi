@@ -39,5 +39,7 @@ Raspberry Pi based wether station
 <h2>Node-Red Flow</h2>
 ![alt text](https://github.com/Brewj/WeatherPi/blob/main/WeatherPi_Flow_20201106_2219.png?raw=true)
 
-<h2>Wiring Diagram</h2>
+## Wiring Diagram
+![WeatherStation PemaProto Half_bb](https://user-images.githubusercontent.com/5247403/98422125-cd789080-2082-11eb-8f47-790ee3bd5da4.png)
+
 ![alt text](https://github.com/Brewj/WeatherPi/blob/main/WeatherStation%20PemaProto%20Half_bb.png?raw=true)
