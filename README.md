@@ -36,4 +36,8 @@ Raspberry Pi based wether station
  <li>Grafana</li>
  </ul>
 
+<h2>Node-Red Flow</h2>
+![alt text](https://github.com/Brewj/WeatherPi/blob/main/WeatherPi_Flow_20201106_2219.png?raw=true)
 
+<h2>Wiring Diagram</h2>
+![alt text](https://github.com/Brewj/WeatherPi/blob/main/WeatherStation%20PemaProto%20Half_bb.png?raw=true)
