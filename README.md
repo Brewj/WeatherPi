@@ -17,9 +17,11 @@ Raspberry Pi based wether station
  <li>Pimoroni Enviro Libraries https://github.com/pimoroni/enviroplus-python</li>
  <li>Node-Red https://nodered.org/docs/getting-started/local </li>
 </ul>
+
 ### Install the following Nodes
 - DHt22
-- Node-Red-Dashboard</li>
+- Node-Red-Dashboard
+<ul>
  <li>node-red-node-pi-mcp3008</li>
  <li>node-red-contrib-python-function</li>
  <li>node-red-contrib-counter</li>
