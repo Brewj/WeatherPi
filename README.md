@@ -6,7 +6,9 @@ Raspberry Pi based wether station
  <li>New image of Raspian Lite with no applications or desktop</li>
  <li>Enable SSH</li>
  <li>Enable I2C</li>
+ </ul>
  <h3>Install the following</h3>
+ <ul>
  <li>Install Node.JS and NPM https://www.instructables.com/Install-Nodejs-and-Npm-on-Raspberry-Pi/ sudo apt install build-essential git first to ensure npm is able to build any binary modules it needs to install</li>
  <li>Install pip</li>
  <li>Install VEML6075 library https://github.com/pimoroni/veml6075-python</li>
