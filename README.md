@@ -10,10 +10,10 @@ Raspberry Pi based wether station
 - Node.JS and NPM https://www.instructables.com/Install-Nodejs-and-Npm-on-Raspberry-Pi/ sudo apt install build-essential git first to ensure npm is able to build any binary modules it needs to install
 - pip
 - VEML6075 library https://github.com/pimoroni/veml6075-python
- <li>I2S mic https://learn.adafruit.com/adafruit-i2s-mems-microphone-breakout/raspberry-pi-wiring-test
- - pip install sounddevice==0.3.15
- - Pimoroni Enviro Libraries https://github.com/pimoroni/enviroplus-python
- - Node-Red https://nodered.org/docs/getting-started/local
+- I2S mic https://learn.adafruit.com/adafruit-i2s-mems-microphone-breakout/raspberry-pi-wiring-test
+- 'pip install sounddevice==0.3.15'
+- Pimoroni Enviro Libraries https://github.com/pimoroni/enviroplus-python
+- Node-Red https://nodered.org/docs/getting-started/local
 
 ### Install the following Nodes
 - DHt22
@@ -26,10 +26,10 @@ Raspberry Pi based wether station
 - node-red-contrib-msg-speed
 
 ### On Primary Pi install the following
-- Mosquito
-- Node-Red
-- InfluxDB
-- Grafana
+- Mosquito https://www.instructables.com/Installing-MQTT-BrokerMosquitto-on-Raspberry-Pi/ 
+- Node-Red https://nodered.org/docs/getting-started/raspberrypi
+- InfluxDB https://simonhearne.com/2020/pi-influx-grafana/
+- Grafana https://simonhearne.com/2020/pi-influx-grafana/
 
 ## Node-Red Flow
 ![WeatherPi_Flow_20201106_2219](https://user-images.githubusercontent.com/5247403/98422214-fdc02f00-2082-11eb-8a97-c4378d4a1931.png)
