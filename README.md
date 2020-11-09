@@ -6,7 +6,7 @@ Raspberry Pi based wether station
   - Enable SSH
   - Enable I2C
   
- ## Install the following
+### Install the following
 - Node.JS and NPM https://www.instructables.com/Install-Nodejs-and-Npm-on-Raspberry-Pi/ sudo apt install build-essential git first to ensure npm is able to build any binary modules it needs to install
 - pip
 - VEML6075 library https://github.com/pimoroni/veml6075-python
@@ -15,15 +15,15 @@ Raspberry Pi based wether station
 - Pimoroni Enviro Libraries https://github.com/pimoroni/enviroplus-python
 - Node-Red https://nodered.org/docs/getting-started/local
 
-### Install the following Nodes
-- DHt22
-- Node-Red-Dashboard
-- node-red-node-pi-mcp3008
-- node-red-contrib-python-function
-- node-red-contrib-counter
-- node-red-contrib-bme280
-- node-red-contrib-msg-speed
-- node-red-contrib-msg-speed
+  #### Install the following Nodes
+  - DHt22
+  - Node-Red-Dashboard
+  - node-red-node-pi-mcp3008
+  - node-red-contrib-python-function
+  - node-red-contrib-counter
+  - node-red-contrib-bme280
+  - node-red-contrib-msg-speed
+  - node-red-contrib-msg-speed
 
 ### On Primary Pi install the following
 - Mosquito https://www.instructables.com/Installing-MQTT-BrokerMosquitto-on-Raspberry-Pi/ 
