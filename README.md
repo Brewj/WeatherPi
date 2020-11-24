@@ -35,7 +35,7 @@ Raspberry Pi based wether station
 ![WeatherPi_Flow_20201106_2219](https://user-images.githubusercontent.com/5247403/100123009-fa45e980-2e71-11eb-98a8-1149db2b5cda.png)
 
 ## Wiring Diagram
-![WeatherStation PemaProto Half_bb](https://user-images.githubusercontent.com/5247403/98422125-cd789080-2082-11eb-8f47-790ee3bd5da4.png)
+![WeatherStation PemaProto Half_bb](https://user-images.githubusercontent.com/5247403/100123667-ad164780-2e72-11eb-8061-ee044636ece5.png)
 
 ## Grafana Dashboard
 ![Grafana Dashboard 2020-11-09 at 08 37 16](https://user-images.githubusercontent.com/5247403/98518170-f194c700-2266-11eb-9a6c-9aa087cb88b6.png)
