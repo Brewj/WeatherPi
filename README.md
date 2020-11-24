@@ -32,7 +32,7 @@ Raspberry Pi based wether station
 - Grafana https://simonhearne.com/2020/pi-influx-grafana/
 
 ## Node-Red Flow
-![WeatherPi_Flow_20201106_2219](https://user-images.githubusercontent.com/5247403/98422214-fdc02f00-2082-11eb-8a97-c4378d4a1931.png)
+![WeatherPi_Flow_20201106_2219](https://user-images.githubusercontent.com/5247403/100123009-fa45e980-2e71-11eb-98a8-1149db2b5cda.png)
 
 ## Wiring Diagram
 ![WeatherStation PemaProto Half_bb](https://user-images.githubusercontent.com/5247403/98422125-cd789080-2082-11eb-8f47-790ee3bd5da4.png)
